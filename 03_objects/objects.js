@@ -41,6 +41,8 @@ JsUser.email = "tyagi@facebook.com"// object ki value change karne ka trika.
 JsUser.email = "tyagiarpit@yahoo.com"
 //console.log(JsUser);
 
+
+
 //js user mai greeting add krni h fxn declare krke
 JsUser.greeting = function(){
     console.log("Hello JS user");
